@@ -1,6 +1,7 @@
 #include <strdio.h>
 
 void function1();
+void function2();
 
 int main()
 {
@@ -11,4 +12,9 @@ int main()
 void function1()
 {
 	printf("A useless function\n");
+}
+
+void function2()
+{
+	printf("Another useless funciton\n");
 }
