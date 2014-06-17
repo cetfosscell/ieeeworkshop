@@ -6,6 +6,7 @@ int main()
 {
 	printf("Test program1\n");
 	function1();
+	printf("hello ");
 }
 
 void function1()
