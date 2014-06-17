@@ -6,6 +6,7 @@ void function2();
 int main()
 {
 	printf("Test program1\n");
+	printf("Teating:...\n");
 	function1();
 }
 
