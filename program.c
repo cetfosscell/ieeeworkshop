@@ -10,5 +10,6 @@ int main()
 
 void function1()
 {
-	printf("A useless function\n");
+	printf("A useless function \n");
+	printf("Another useless addition\n");
 }
